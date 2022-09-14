@@ -1,3 +1,3 @@
 # intital practice
 
-lets start
+lets start the practice
